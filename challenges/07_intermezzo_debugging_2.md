@@ -21,10 +21,7 @@ First, install [the Python extension for VS
 Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python), if
 you haven't already. This will allow you to use the right debugger.
 
-Then, [please follow this video](https://youtu.be/ncadn-fgeHc). There isn't a
-text equivalent because this style of debugger is difficult to clearly
-demonstrate in that manner.
-
+Then, [please follow this video](https://youtu.be/ncadn-fgeHc).
 The below code will be useful if you want to follow along.
 
 ```python
@@ -41,6 +38,22 @@ print(factorial(5))
 # Expected: 120 (the result of: 5 * 4 * 3 * 2 * 1)
 # Actual: 24
 ```
+
+The aim of an
+interactive debugger is to allow you to stop the program execution at specific
+points in the code and inspect what is going on. You can use breakpoints on lines
+of code to tell the debugger to stop. When it is stopped you can view variable
+values in the different available scopes and also run code within that scope.
+You can then make the program continue until the next breakpoint (or the end of
+the program) or you can step over (run until the next line), step into or step out
+(you can experiment to see what these options do).
+
+In VSCode there is a Run and Debug view which allow you to run the current file in
+debug mode. There is a Variables view to inspect current values and a Watch view
+to run your own ad-hoc code. You can also make breakpoints conditional so they
+will only stop when the code you supply is true e.g. in a loop the conditional
+`index == 2` means the program will stop when the current index is 2.
+
 
 ## Exercise
 
@@ -66,6 +79,9 @@ class VowelRemover:
             i += 1
         return self.text
 
+```
+
+```python
 # File: tests/test_vowel_remover.py
 
 from lib.vowel_remover import *
