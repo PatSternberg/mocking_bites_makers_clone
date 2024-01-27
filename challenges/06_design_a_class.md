@@ -100,22 +100,6 @@ Don't worry about user input & output here.
 
 [Example Solution](https://youtu.be/OjrhRL4i1kc?t=1805s)
 
-## Challenge
-
-**This is a process feedback challenge.** That means you should record yourself
-doing it and submit that recording to your coach for feedback. [How do I do
-this?](../pills/process_feedback_challenges.md)
-
-Follow the design recipe to implement the following user story in your project.
-This will be in a new class.
-
-> As a user  
-> So that I can keep track of my music listening  
-> I want to add tracks I've listened to and see a list of them.
-
-After you're done, [submit your recording
-here.](https://airtable.com/shrvo9ePjlwnaiLv5?prefill_Item=gspy_as02)
-
 
 [Next Challenge](07_intermezzo_debugging_2.md)
 

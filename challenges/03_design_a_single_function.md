@@ -94,21 +94,6 @@ now, you'll get the hang of it.
 
 [Example solution](https://www.youtube.com/watch?v=wPC2JICqodQ&t=722s)
 
-## Challenge
-
-**This is a process feedback challenge.** That means you should record yourself
-doing it and submit that recording to your coach for feedback. [How do I do
-this?](../pills/process_feedback_challenges.md)
-
-Follow the design recipe to implement the following user story in your project:
-
-> As a user  
-> So that I can keep track of my tasks  
-> I want to check if a text includes the string `#TODO`.
-
-After you're done, [submit your recording
-here.](https://airtable.com/shrvo9ePjlwnaiLv5?prefill_Item=gspy_as01)
-
 
 [Next Challenge](04_intermezzo_debugging_1.md)
 
