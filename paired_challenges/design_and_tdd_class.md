@@ -1,9 +1,5 @@
 # Design and test-drive a class
 
-**This is a process feedback challenge.** That means you should record
-yourselves doing it and submit that recording to your coach for feedback. [How
-do I do this?](../pills/process_feedback_challenges.md)
-
 ## Paired Challenge
 
 Follow the [design recipe](../resources/single_class_recipe_template.md) to

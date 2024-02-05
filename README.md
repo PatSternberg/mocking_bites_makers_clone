@@ -5,12 +5,12 @@ _Coaching this? Read the coach guidance
 
 In this module your objectives are:
 
-* Learn to test-drive programs with multiple classes.
-* Learn to break programs up into classes.
-* Learn to debug your programs.
 * Learn to build software as a pair.
-* Learn to explain why test-driving, object-oriented design, debugging, and
-  pairing are powerful practices for software engineers.
+* Learn to break programs up into classes.
+* Learn to test-drive programs with multiple classes.
+* Learn to debug your programs.
+* Learn to explain why pairing, object-oriented design, test-driving and
+  debugging are powerful practices for software engineers.
 
 You will achieve these by working through a sequence of exercises and challenges
 over two weeks.
@@ -18,13 +18,23 @@ over two weeks.
 ## Pairing Challenges
 
 Each afternoon you will be encouraged to work as a pair on a Paired Challenge.
-Some of those tasks will be [Process Feedback
-Challenges](pills/process_feedback_challenges.md), in which you record
-yourselves performing the task and share it with your coach for feedback.
 
 Your coach will talk more about these Paired Challenges during this module's
 kick-off, but more details and a list of the challenges are available on the
 [Paired Challenges](./paired_challenges/README.md) page.
+
+## Progress and Feedback
+
+During this module, you should be **proactively looking for opportunities** to
+demonstrate that you've achieved the objectives (above). This will help to keep
+your focus on the purpose of the module - those objectives - rather than on how
+far through the materials you get.
+
+For details on what and how to submit, see [our guide on getting Feedback in
+Golden Square](./feedback/README.md).
+
+> If you want written feedback from your coach(es) during this module, looking for
+> and submitting that evidence is _the_ way of getting that feedback.
 
 ## Sequence
 

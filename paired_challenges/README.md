@@ -33,16 +33,6 @@ afternoon.
 If you're not in a pair today, voluntarily or otherwise, don't worry! Just carry
 on working through the module solo in the afternoon instead.
 
-## Process Feedback Challenges
-
-Like in your previous modules, some challenges will involve recording yourselves
-and you'll submit the work for your coach to review and provide feedback on.
-These are marked with a :satellite:.
-
-Part of the assessment will involve how you work together in your pair, so these
-are great opportunities to get valuable feedback on how a developer is most
-likely to be writing software - with someone else, as a pair.
-
 ## List of the Golden Square Paired Challenges
 
 Below is a list of the challenges - note that they are grouped according to your
@@ -64,17 +54,20 @@ would be very challenging._
        :hot_pepper::hot_pepper:
 * Phase Two completed
   * 5. [Design and test-drive a function](./design_and_tdd_function.md)
-       :satellite: :hot_pepper::hot_pepper:
+       :hot_pepper::hot_pepper:
   * 6. [Design and test-drive a more complex
        function](./design_and_tdd_complex_function.md)
        :hot_pepper::hot_pepper::hot_pepper:
 * Phase Three completed
-  * 7. [Design and test-drive a class](./design_and_tdd_class.md) :satellite:
+  * 7. [Design and test-drive a class](./design_and_tdd_class.md)
        :hot_pepper::hot_pepper:
-  * 8. [Design and test-drive a more complex class](./design_and_tdd_complex_class.md)
+  * 8. [Design and test-drive a more complex
+       class](./design_and_tdd_complex_class.md)
        :hot_pepper::hot_pepper::hot_pepper::hot_pepper:
 * Phase Four completed
-  * 9. [Design and test-drive a class system](./design_and_tdd_class_system.md) :hot_pepper::hot_pepper::hot_pepper:
+  * 9. [Design and test-drive a class
+       system](./design_and_tdd_class_system.md)
+       :hot_pepper::hot_pepper::hot_pepper:
 * Phase Five completed
   * 10. [Mocking classes and API
         requests](./mocking_classes_and_api_requests.md)
